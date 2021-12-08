@@ -1,1 +1,3 @@
 # MIKROTIK
+About us
+MikroTik is a Latvian company which was founded in 1996 to develop routers and wireless ISP systems. MikroTik now provides hardware and software for Internet connectivity in most of the countries around the world. Our experience in using industry standard PC hardware and complete routing systems allowed us in 1997 to create the RouterOS software system that provides extensive stability, controls, and flexibility for all kinds of data interfaces and routing. In 2002 we decided to make our own hardware, and the RouterBOARD brand was born. We have resellers in most parts of the world, and customers in probably every country on the planet. Our company is located in Riga, the capital city of Latvia and has more than 280 employees.
